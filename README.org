@@ -1,0 +1,23 @@
+#+TITLE:
+
+* Introduction
+
+A minimalist converter from CytoClus ListMode files to Ecotaxa tab
+separated format.
+
+Hacked together at the JericoS3 Imaging Workshop, Villfranche-sur-mer,
+June 2023.
+
+* Example
+
+Typical usage:
+
+#+begin_src bash
+  ./main.py "/mnt/c/data/cytobuoy-examples-20230524/Sea/pond 2023-05-24 11h49_All Imaged Particles_Listmode.csv" > ecotaxa-files.tsv
+#+end_src
+
+* References
+
+[1] Ecotaxa - How to prepare data https://ecotaxa.obs-vlfr.fr/prj
+
+[2] Ecotaxa manuals - https://sites.google.com/view/piqv/piqv-manuals/ecotaxaecopart-manuals
