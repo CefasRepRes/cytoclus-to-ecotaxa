@@ -21,3 +21,5 @@ Typical usage:
 [1] Ecotaxa - How to prepare data https://ecotaxa.obs-vlfr.fr/prj
 
 [2] Ecotaxa manuals - https://sites.google.com/view/piqv/piqv-manuals/ecotaxaecopart-manuals
+
+[3] Interoperable vocabulary for marine microbial flow cytometry https://www.frontiersin.org/articles/10.3389/fmars.2022.975877/full
